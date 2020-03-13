@@ -1,0 +1,8 @@
+{
+  "dbdata":{
+    "host": "localhost",
+    "db":"xc_company",
+    "user":"xc_editor",
+    "pass":"xc_*editor+"
+  }
+}
